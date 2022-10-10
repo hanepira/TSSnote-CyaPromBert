@@ -5,8 +5,8 @@ Google Colab Links
 
 TSSNote: For TSSs and promoters extraction.  
 https://colab.research.google.com/drive/1P53HJx_8oMGWVabMVgrz77uEc4rCryzv?usp=sharing  
-Model Training: Train a BERT model for promoter prediction task  
-  
+
+Model Training: Train a BERT model for promoter prediction task    
 https://colab.research.google.com/drive/16vSVDpY46yQXn3xT2MWRAj5WVGVc_gmZ?usp=sharing  
   
 CyaPromBERT: For inferencing using trained model  
