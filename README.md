@@ -1,6 +1,6 @@
-# TSSnote-CyaPromBERT an integrated pipeline for constructing curated promoter prediction tools using SOTA BERT through public dRNA-seq datasets
+# TSSnote-CyaPromBERT 
 
-A repo containing supplemental data for TSSNote-CyaPromBERT study
+A repo containing supplemental data for TSSNote-CyaPromBERT an integrated pipeline for constructing curated promoter prediction tools using SOTA BERT through public dRNA-seq datasets
 
 Google Colab Links  
 
